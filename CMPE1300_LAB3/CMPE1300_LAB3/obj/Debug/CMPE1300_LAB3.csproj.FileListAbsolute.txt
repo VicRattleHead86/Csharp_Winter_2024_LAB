@@ -1,0 +1,9 @@
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\LAB\CMPE1300_LAB3\CMPE1300_LAB3\bin\Debug\CMPE1300_LAB3.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\LAB\CMPE1300_LAB3\CMPE1300_LAB3\bin\Debug\CMPE1300_LAB3.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\LAB\CMPE1300_LAB3\CMPE1300_LAB3\bin\Debug\CMPE1300_LAB3.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\LAB\CMPE1300_LAB3\CMPE1300_LAB3\bin\Debug\GDIDrawer.dll
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\LAB\CMPE1300_LAB3\CMPE1300_LAB3\obj\Debug\CMPE1300_LAB3.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\LAB\CMPE1300_LAB3\CMPE1300_LAB3\obj\Debug\CMPE1300_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\LAB\CMPE1300_LAB3\CMPE1300_LAB3\obj\Debug\CMPE1300_LAB3.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\LAB\CMPE1300_LAB3\CMPE1300_LAB3\obj\Debug\CMPE1300_LAB3.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\LAB\CMPE1300_LAB3\CMPE1300_LAB3\obj\Debug\CMPE1300_LAB3.pdb

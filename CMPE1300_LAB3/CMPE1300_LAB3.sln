@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMPE1300_LAB3", "CMPE1300_LAB3\CMPE1300_LAB3.csproj", "{DB2A6E4B-A2BE-42D4-B1A8-A88C026C8A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2A6E4B-A2BE-42D4-B1A8-A88C026C8A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2A6E4B-A2BE-42D4-B1A8-A88C026C8A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2A6E4B-A2BE-42D4-B1A8-A88C026C8A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2A6E4B-A2BE-42D4-B1A8-A88C026C8A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6251527-1B37-42F8-AB20-AAA04CBA4E15}
+	EndGlobalSection
+EndGlobal
